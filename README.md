@@ -14,7 +14,6 @@ There are several methods for normalizing RNA-Seq data, including:
 - Transcripts Per Million (TPM)
 - Fragments Per Kilobase Million (FPKM)
 - Trimmed Mean of M-values (TMM)
-- etc.
 
 ## How to Normalize RNA-Seq Data
 
