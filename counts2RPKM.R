@@ -6,7 +6,7 @@
 # 2. Divide the read counts by the “per million” scaling factor. This normalizes for sequencing depth, giving you reads per million (RPM)
 # 3. Divide the RPM values by the length of the gene, in kilo bases. This gives you RPKM.
 
-###############
+##############
 require (dplyr)
 rm(list = ls())
 #read count file
